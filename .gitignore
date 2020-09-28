@@ -1,0 +1,6 @@
+nginx_access.log
+nginx_error.log
+ssl/*
+conf.d/api.hi-jay.eu.conf
+conf.d/hijay5.isuvorov.com.conf
+
