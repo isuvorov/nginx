@@ -3,7 +3,7 @@
 Settings:
 1. `brew install nginx`
 2. `git clone https://github.com/isuvorov/nginx ~/projects/nginx`
-3. `mkdir -p /usr/local/etc/nginx`
+3. `sudo mkdir -p /usr/local/etc/nginx`
 4. `echo "include $HOME/projects/nginx/nginx.mac.conf;" > /usr/local/etc/nginx/nginx.conf`
 5. `sudo cp /usr/local/opt/nginx/*.plist /Library/LaunchDaemons`
 6. `sudo ln -s $HOME/projects/nginx /etc/nginx`
