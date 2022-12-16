@@ -4,4 +4,5 @@ ssl/*
 conf.d/*
 !conf.d/3000.conf
 !conf.d/default.conf
-
+!conf.d/sample.isuvorov.com.conf
+certbot/*
